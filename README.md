@@ -7,7 +7,6 @@
 
 <br>
   
-<a href="https://github.com/Jong-Youl"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jongyoul&show_icons=true&theme=buefy&card_width=300" /></a>
 <a href="https://github.com/Jong-Youl?tab=repositories"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jongyoul&layout=compact&langs_count=8&card_width=300" /></a>
 
 ## Hi Im Jong-Youl 👋
