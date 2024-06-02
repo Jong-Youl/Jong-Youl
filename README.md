@@ -7,10 +7,6 @@
 <a href="https://github.com/Jong-Youl"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jong-Youl&show_icons=true&theme=ambient_gradient&card_width=300" /></a>
 <a href="https://solved.ac/dlawhdfbf12"><img height=200 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlawhdfbf12&card_width=300" /></a>
 
-<br>
-  
-<a href="https://github.com/Jong-Youl?tab=repositories"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jongyoul&layout=compact&langs_count=8&card_width=300" /></a>
-
 <!--
 **Jong-Youl/Jong-Youl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
