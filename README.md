@@ -4,7 +4,6 @@
 
 <br>
 
-<a href="https://github.com/Jong-Youl"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jong-Youl&show_icons=true&theme=ambient_gradient&card_width=300" /></a>
 <a href="https://solved.ac/dlawhdfbf12"><img height=200 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlawhdfbf12&card_width=300" /></a>
 
 <!--
